@@ -39,7 +39,7 @@ Avec comme domaine de résolution cet appartement :
 
 1. En utilsant **gmsh**:  
 
-- **heat.geo** avec les données de heat_donnes.geo qui crée heat.msh (les coordonnées du maillage)
+- **heat.geo** avec les données de **heat_donnes.pro** qui crée **heat.msh** (les coordonnées du maillage)
 
 2. En utilisant **Python** 
 
@@ -49,10 +49,12 @@ Avec comme domaine de résolution cet appartement :
 3. Programmation d'un code en élements finis P1 :  
 
 -  **P1_pb.py**: Par transformation du système en système matriciel tel que **Ax=b avec A=D+cM** donc définition de *Matrice de Masse, Matrice de Rigidité, Condition de Dirichlet* 
+
+-  **resolution.py** : *appel de l'ensemble des fonctions des autres fichiers afin de résoudre le problème et de visualiser la résolution dur le maillage crée*.
      
 # Execution 
 
-Trés simple : python3 resolution.py
+Trés simple : **python3 resolution.py**
 Après l'execution voici ce que vous devez obtenir :
 
 <img src="https://user-images.githubusercontent.com/49198711/109034606-1b63e380-76c8-11eb-8459-c8ab5dc2447d.png" width="90%"></img> 
