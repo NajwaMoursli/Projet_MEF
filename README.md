@@ -37,16 +37,16 @@ Avec comme domaine de résolution cet appartement :
 
 # Procédure
 
-- [En utilsant **gmsh**  ]  
+1. En utilsant **gmsh**:  
 
 - **heat.geo** avec les données de heat_donnes.geo qui crée heat.msh (les coordonnées du maillage)
 
-- [En utilisant **Python** ] 
+2. En utilisant **Python** 
 
 - **base.py** : contient les classes nécessaires pour construire le maillage *Point, Segment, Triplet, Triangle, Fonction de forme, Jacobienne et Bp = inv(J.T)  et Point de Gauss*
 - **maillage_pb.py**: construction du maillage à l'aide de gmsh *Mesh et GmshToMesh*
 
-- [ Programmation d'un code en élements finis P1 :]  
+3. Programmation d'un code en élements finis P1 :  
 
 -  **P1_pb.py**: Par transformation du système en système matriciel tel que **Ax=b avec A=D+cM** donc définition de *Matrice de Masse, Matrice de Rigidité, Condition de Dirichlet* 
      
