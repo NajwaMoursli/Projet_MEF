@@ -24,7 +24,7 @@ Avec comme domaine de résolution cet appartement :
 - Le flux est nul étant donné que les murs sont **supposées** isolants
 - 4 fenêtres et 3 radiateurs
 
-# Bibliothèques Python à avoir :
+# Bibliothèques Python à télécharger :
 - scipy (https://www.scipy.org)
 - numpy (http://www.numpy.org)
 - math (https://docs.python.org/2/library/math.html)
@@ -32,9 +32,9 @@ Avec comme domaine de résolution cet appartement :
 - sys (https://docs.python.org/fr/3/library/sys.html)
 - matplotlib (https://matplotlib.org/stable/index.html)
 
- # Pour télécharger :
+ # A installer :
 - gmsh : http://gmsh.info
-- onelab : https://onelab.info
+- onelab : https://onelab.info (optionnel)
 
 # Procédure
 
