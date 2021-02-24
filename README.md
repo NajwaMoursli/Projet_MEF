@@ -3,7 +3,7 @@
 Nous souhaitions résoudre le problème (1.1) à l’aide de la méthode des éléments finis P1− Lagrange.
 
 ![\Large \left \{
-   \begin{array}{cccc}
+   \begin{array}{r c l}
       -\nabla u & = & 0 sur \Omega \\
       u   & = & T_{f} sur \Gamma_{fen} \\
       u   & = & T_{c} sur \Gamma_{rac} \\
