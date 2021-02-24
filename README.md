@@ -3,7 +3,7 @@ Enoncé : https://bthierry.pages.math.cnrs.fr/course-fem/projet/2020-2021/
 
 Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  des éléments finis P1- Lagrange:
 
-<img src="https://user-images.githubusercontent.com/49198711/109036725-2f104980-76ca-11eb-9c4e-a6eb7249415c.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/49198711/109036725-2f104980-76ca-11eb-9c4e-a6eb7249415c.png" width="45%"></img> 
 
 # Les paramètres sont les suivants :
 -La longueur L=10
@@ -29,6 +29,7 @@ Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  de
 # Procédure
 
 1. En construisant la géométrie du problème : 
+
    -En utilsant **gmsh** :
       => **heat.geo** avec les données de heat_donnes.geo qui crée heat.msh (les coordonnées du maillage)
    - En utilisant **Python**:
@@ -43,6 +44,6 @@ Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  de
 Trés simple : python3 resolution.py
 Après l'execution voici ce que vous devez obtenir :
 
-<img src="https://user-images.githubusercontent.com/49198711/109034606-1b63e380-76c8-11eb-8459-c8ab5dc2447d.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/49198711/109034606-1b63e380-76c8-11eb-8459-c8ab5dc2447d.png" width="45%"></img> 
 
 
