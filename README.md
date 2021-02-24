@@ -1,4 +1,5 @@
-# Projet de Maillage en Elements Finis 2020-2021
+# Projet de Maillage en Elements Finis 2020-2021 
+# Collaborateurs : Najwa MOURSLI et Laurent DANG-VU
 Enoncé : https://bthierry.pages.math.cnrs.fr/course-fem/projet/2020-2021/
 
 Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  des éléments finis P1- Lagrange:
