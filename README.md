@@ -3,10 +3,11 @@ Enoncé : https://bthierry.pages.math.cnrs.fr/course-fem/projet/2020-2021/
 
 Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  des éléments finis P1- Lagrange:
 
-<img src="https://user-images.githubusercontent.com/49198711/109036725-2f104980-76ca-11eb-9c4e-a6eb7249415c.png" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/49198711/109036725-2f104980-76ca-11eb-9c4e-a6eb7249415c.png" width="30%"></img> 
 
 Avec comme domaine de résolution cet appartement :
-<img src="https://user-images.githubusercontent.com/49198711/109039816-806e0800-76cd-11eb-8a9c-b91bd908f7ba.png" width="55%"></img> 
+
+<img src="https://user-images.githubusercontent.com/49198711/109039816-806e0800-76cd-11eb-8a9c-b91bd908f7ba.png" width="40%"></img> 
 
 # Les paramètres sont les suivants :
 - La longueur L = 10
