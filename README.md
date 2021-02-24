@@ -5,6 +5,9 @@ Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  de
 
 <img src="https://user-images.githubusercontent.com/49198711/109036725-2f104980-76ca-11eb-9c4e-a6eb7249415c.png" width="45%"></img> 
 
+Avec comme domaine de résolution cet appartement :
+<img src="https://user-images.githubusercontent.com/49198711/109039816-806e0800-76cd-11eb-8a9c-b91bd908f7ba.png" width="90%"></img> 
+
 # Les paramètres sont les suivants :
 - La longueur L = 10
 - La largeur l = 10
@@ -25,6 +28,7 @@ Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  de
 - math (https://docs.python.org/2/library/math.html)
 - os (https://docs.python.org/fr/2.7/library/os.html)
 - sys (https://docs.python.org/fr/3/library/sys.html)
+- matplotlib (https://matplotlib.org/stable/index.html)
 
  # Pour télécharger :
 - gmsh : http://gmsh.info
@@ -48,6 +52,6 @@ Le but de ce projet est de résoudre le Problème ci-dessous par la méthode  de
 Trés simple : python3 resolution.py
 Après l'execution voici ce que vous devez obtenir :
 
-<img src="https://user-images.githubusercontent.com/49198711/109034606-1b63e380-76c8-11eb-8459-c8ab5dc2447d.png" width="55%"></img> 
+<img src="https://user-images.githubusercontent.com/49198711/109034606-1b63e380-76c8-11eb-8459-c8ab5dc2447d.png" width="90%"></img> 
 
 
