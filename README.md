@@ -42,6 +42,8 @@ Avec comme domaine de résolution cet appartement :
 
 - **heat.geo** avec les données de **heat_donnes.pro** qui crée **heat.msh** (les coordonnées du maillage)
 
+<img src="https://user-images.githubusercontent.com/49198711/109043982-2885d000-76d2-11eb-9caa-3a8038fa4a15.png" width="90%"></img> 
+
 2. En utilisant **Python** 
 
 - **base.py** : contient les classes nécessaires pour construire le maillage *Point, Segment, Triplet, Triangle, Fonction de forme, Jacobienne et Bp = inv(J.T)  et Point de Gauss*
